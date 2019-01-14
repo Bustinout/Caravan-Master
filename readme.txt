@@ -12,3 +12,4 @@ Features:
 Multi-event traveling simiulation
 Random item generation
 Party management UI
+Funny dadjoke-level item descriptions
